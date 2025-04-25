@@ -6,7 +6,7 @@ def complement(lst):
         lst (_type_): _description_
 
     Returns:
-        _type_: _description_
+        result: _description_
     """
     max_val=0
     for i in range(len(lst)):
